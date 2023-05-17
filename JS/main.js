@@ -1,6 +1,6 @@
 let productos = [];
 
-fetch("./js/productos.json")
+fetch("../JS/productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
@@ -14,9 +14,7 @@ let botonesAgregar = document.querySelectorAll(".producto-agregar");
 const numerito = document.querySelector("#numerito");
 
 
-botonesCategorias.forEach(boton => boton.addEventListener("click", () => {
-    aside.classList.remove("aside-visible");
-}))
+
 
 
 function cargarProductos(productosElegidos) {
@@ -42,6 +40,7 @@ function cargarProductos(productosElegidos) {
     actualizarBotonesAgregar();
 }
 
+cargarProductos(productos);
 
 botonesCategorias.forEach(boton => {
     boton.addEventListener("click", (e) => {
