@@ -1,0 +1,163 @@
+[
+    {
+        "id": "Tortas-uno",
+        "titulo": "Torta festiva",
+        "imagen": "/IMG/tortas/torta-uno.png",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "Tortas"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "Tortas-dos",
+        "titulo": "Torta primavera",
+        "imagen": "/IMG/tortas/torta-dos.png",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "Tortas"
+        },
+        "precio": 90000
+    },
+    {
+        "id": "Tortas-tres",
+        "titulo": "Torta chocolate",
+        "imagen": "/IMG/tortas/torta-tres.png",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "Tortas"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "Tortas-04",
+        "titulo": "Torta chocosa",
+        "imagen": "/IMG/tortas/torta-cuatro.png",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "Tortas"
+        },
+        "precio": 120000
+    },
+    {
+        "id": "tortas-05",
+        "titulo": "Torta jasmin",
+        "imagen": "/IMG/tortas/torta-cinco.png",
+        "categoria": {
+            "nombre": "Tortas",
+            "id": "Tortas"
+        },
+        "precio": 150000
+    },
+    {
+        "id": "antojos-01",
+        "titulo": "Achiras",
+        "imagen": "/IMG/antojos/achiras-uno.png",
+        "categoria": {
+            "nombre": "Antojos",
+            "id": "Antojos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "antojos-02",
+        "titulo": "Biscochos",
+        "imagen": "/IMG/antojos/biscochos-dos.png",
+        "categoria": {
+            "nombre": "Antojos",
+            "id": "Antojos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "antonjos-03",
+        "titulo": "Boñuelos",
+        "imagen": "/IMG/antojos/boñuelos-tres.png",
+        "categoria": {
+            "nombre": "Antojos",
+            "id": "Antojos"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "antojos-04",
+        "titulo": "Galleta Negra",
+        "imagen": "/IMG/antojos/galletanegra-cuatro.png",
+        "categoria": {
+            "nombre": "Antojos",
+            "id": "Antojos"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "antojos-05",
+        "titulo": "Pan de Bono",
+        "imagen": "/IMG/antojos/pandebono-cinco.png",
+        "categoria": {
+            "nombre": "Antojos",
+            "id": "Antojos"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "antojos-06",
+        "titulo": "Pan de Yuca",
+        "imagen": "/IMG/antojos/pandeyuca-seis.png",
+        "categoria": {
+            "nombre": "Antojos",
+            "id": "Antojos"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "antojos-07",
+        "titulo": "Polvorosos",
+        "imagen": "/IMG/antojos/polvorosos-siete.png",
+        "categoria": {
+            "nombre": "Antojos",
+            "id": "Antojos"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "antojos-08",
+        "titulo": "Rosquillas",
+        "imagen": "/IMG/antojos/rosquillas-ocho.png",
+        "categoria": {
+            "nombre": "Antojos",
+            "id": "Antojos"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "gustos-01",
+        "titulo": "redwine",
+        "imagen": "/IMG/gustos/img1-proceso.png",
+        "categoria": {
+            "nombre": "Gusticos",
+            "id": "Gusticos"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "gustos-02",
+        "titulo": "yellowgpeanut",
+        "imagen": "/IMG/gustos/img2-proceso.png",
+        "categoria": {
+            "nombre": "Gusticos",
+            "id": "Gusticos"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "gustos-03",
+        "titulo": "Brownchocolate",
+        "imagen": "/IMG/gustos/img3-proceso.png",
+        "categoria": {
+            "nombre": "Gusticos",
+            "id": "Gusticos"
+        },
+        "precio": 15000
+    }
+    
+]
